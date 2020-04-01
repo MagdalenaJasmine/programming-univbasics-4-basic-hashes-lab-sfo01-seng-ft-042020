@@ -7,6 +7,7 @@ def my_hash
     :onions=>1 
     :strawberries=>5 
   }
+  groceries 
 end
 
 def pioneer
