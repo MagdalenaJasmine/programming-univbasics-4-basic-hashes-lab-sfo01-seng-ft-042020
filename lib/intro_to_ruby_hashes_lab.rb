@@ -3,7 +3,10 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  groceries={
+    :onions=>1 
+    :strawberries=>5 
+  }
 end
 
 def pioneer
