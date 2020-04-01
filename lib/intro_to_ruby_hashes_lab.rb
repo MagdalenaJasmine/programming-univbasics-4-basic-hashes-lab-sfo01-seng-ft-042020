@@ -3,9 +3,8 @@ def new_hash
 end
 
 def my_hash
-  groceries={
-    :onions=>1 
-    :strawberries=>5 
+  Me={
+    :name=>"Maggie"
   }
 end
 
